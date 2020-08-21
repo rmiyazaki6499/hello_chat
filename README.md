@@ -1,3 +1,5 @@
+![Express Socket.io](https://miro.medium.com/max/1200/1*tWm33yhceKIL22QqOORu2w.png)
+
 # Hello Chat
 Realtime chat app with websockets using Node.js, Express and Socket.io with Javascript on the frontend with a custom UI
 
